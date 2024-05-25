@@ -1,0 +1,19 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-link{
+  cursor: pointer;
+}
+.card{
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+.back{
+  background:linear-gradient(to right,blue,green,orange);
+}
